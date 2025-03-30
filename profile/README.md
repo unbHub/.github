@@ -1,6 +1,6 @@
 # 📚 UnBHub
 
-This organization houses exercises, study materials, and projects developed throughout my Bachelor's degree in Software Engineering at the [University of Brasília](https://unb.br). Here, you’ll find various assignments completed in different courses, along with both individual and team projects that cover a range of topics and technologies within the computing field.
+This organization houses exercises, study materials, and projects developed throughout my Bachelor's degree in Software Engineering at the [University of Brasília](https://international.unb.br/). Here, you’ll find various assignments completed in different courses, along with both individual and team projects that cover a range of topics and technologies within the computing field.
 
 ### Repository Structure
 
